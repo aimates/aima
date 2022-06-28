@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xA42707DD8e034cE97945e7Cc107Fc593772602Ce",
+  "SCAN_LINK": "https://etherscan.io/token/0xa42707dd8e034ce97945e7cc107fc593772602ce",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "AImates",
+  "SYMBOL": "AIM",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 7000000000000000,
+  "DISPLAY_COST": 0.007,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/aimates",
+  "SHOW_BACKGROUND": true
+}
